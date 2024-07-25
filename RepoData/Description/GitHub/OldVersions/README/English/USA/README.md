@@ -1,0 +1,1 @@
+🍏️👓️2️⃣️📖️ The official documentation source repository/separate repository for the archival and development of VisorOS 2.x, an open source remake of Apple's VisionOS (versions 2.x) Part of the WacOS operating system project. 
